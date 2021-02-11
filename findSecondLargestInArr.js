@@ -1,6 +1,8 @@
 // Return the second-largest number from the input array
 // Do this in O(n) time
 // Always at least 2 numbers, and they're all positive
+// forEach practice
+
 
 const arr = [1, 2, 3, 9]
 
